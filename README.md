@@ -18,6 +18,7 @@ The course supports my ongoing professional development in Software Quality Assu
 
 ## Certificate
 
+![Playwright with TypeScript — Simplilearn Certificate](./QA_Automation.png)
 [View My Certificate (PDF)](./QA_Automation_Certificate.pdf)
 
 ## Learning Focus
